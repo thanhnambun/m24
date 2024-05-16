@@ -1,0 +1,10 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"IPhone 15 Promax 2023 ",
+            "price":20.99,
+            "img":"../assets/"
+        }
+    ]
+}
